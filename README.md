@@ -3,8 +3,8 @@
 
 # 使用方法
 //压缩尺寸大小，参数自行修改
-gulp resize
+## gulp resize
 
 //压缩品质  quality 自行修改
-gulp min
+## gulp min
 
